@@ -10,5 +10,7 @@ Which guarantees you better +fps!
 HOW TO BEGIN!
 
 1.Download the program!
+
 2.Run the hypepixelLoader.exe as admin!
+
 3.Enjoy!
